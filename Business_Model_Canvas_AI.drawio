@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9" pages="2">
+  <diagram id="BMC1" name="Business Model Canvas – AI Resume Studio">
+    <mxGraphModel dx="1639" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="0" page="1" pageScale="1" pageWidth="1700" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="10" value="&lt;b&gt;BUSINESS MODEL CANVAS – AI Resume Studio&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="20" width="1620" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="&lt;b&gt;1. Propuesta de Valor&lt;/b&gt;&lt;br&gt;• Optimización automática de CVs con IA.&lt;br&gt;• Versiones personalizadas por vacante.&lt;br&gt;• Cover Letters generadas automáticamente.&lt;br&gt;• Detección del rol objetivo.&lt;br&gt;• Análisis de JD + skills clave.&lt;br&gt;• CV compatible con ATS.&lt;br&gt;• Resultados rápidos y profesionales.&lt;br&gt;• Interfaz simple y ultra-minimalista.&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Multi-idioma&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="600" y="20" width="380" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="&lt;b&gt;2. Segmentos de Clientes&lt;/b&gt;&lt;br&gt;• Profesionales en búsqueda activa.&lt;br&gt;• Personas que quieren ascender.&lt;br&gt;• Recién graduados.&lt;br&gt;• Extranjeros buscando en LATAM/USA/EU.&lt;br&gt;• Coaches de carrera / headhunters.&lt;br&gt;• Empresas con beneficios de empleabilidad." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="20" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="&lt;b&gt;4. Relación con Clientes&lt;/b&gt;&lt;br&gt;• 100% autoservicio en plataforma.&lt;br&gt;• Interacción personalizada con IA.&lt;br&gt;• Respuestas inmediatas (0 fricción).&lt;br&gt;• Soporte opcional chat/email.&lt;br&gt;• Gamificación: ATS score, niveles." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="990" y="20" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="&lt;b&gt;3. Canales&lt;/b&gt;&lt;br&gt;• Landing web.&lt;br&gt;• PPC Google Ads (Optimizar CV/ATS).&lt;br&gt;• Instagram / TikTok (explicativo).&lt;br&gt;• LinkedIn (educativo).&lt;br&gt;• SEO (blog y ejemplos).&lt;br&gt;• Alianzas con universidades/bootcamps." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="990" y="150" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="&lt;b&gt;5. Fuentes de Ingresos&lt;/b&gt;&lt;br&gt;&lt;u&gt;Modelo 1: Suscripción&lt;/u&gt; mensual/anual.&lt;br&gt;&lt;u&gt;Modelo 2: Pago por uso&lt;/u&gt;: CV, Cover Letter, Day Pass 48h.&lt;br&gt;&lt;u&gt;Modelo 3: B2B/White‑label&lt;/u&gt; universidades/empresas.&lt;br&gt;&lt;u&gt;Modelo 4: Upsells&lt;/u&gt;: revisión humana, plantillas premium, mock interview IA." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="990" y="290" width="650" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="60" value="&lt;b&gt;6. Actividades Clave&lt;/b&gt;&lt;br&gt;• Desarrollo y mantenimiento del motor IA.&lt;br&gt;• Integración con APIs (LLM/embeddings/ATS).&lt;br&gt;• Optimización de UX/UI.&lt;br&gt;• Marketing digital (SEO/SEM/Redes).&lt;br&gt;• Analítica para mejorar recomendaciones.&lt;br&gt;• Pagos, autenticación y usuarios." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="310" y="20" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="&lt;b&gt;7. Recursos Clave&lt;/b&gt;&lt;br&gt;• Modelos IA (GPT, embeddings, RAG).&lt;br&gt;• Infraestructura cloud (AWS/GCP/Vercel).&lt;br&gt;• Repositorio de plantillas ATS‑friendly.&lt;br&gt;• Diseñadores y desarrolladores.&lt;br&gt;• Base de datos de usuarios y uso.&lt;br&gt;• Marca minimalista y confiable." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="310" y="190" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="80" value="&lt;b&gt;8. Socios Clave&lt;/b&gt;&lt;br&gt;• OpenAI / Anthropic (modelos IA).&lt;br&gt;• Proveedores Cloud (AWS/Vercel/Firebase).&lt;br&gt;• Pasarelas de pago (Stripe/PayU/MercadoPago).&lt;br&gt;• Universidades y academias aliadas.&lt;br&gt;• Especialistas en reclutamiento." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="280" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="&lt;b&gt;9. Estructura de Costos&lt;/b&gt;&lt;br&gt;• OpenAI API (variable principal).&lt;br&gt;• Infraestructura y hosting web.&lt;br&gt;• Desarrollo y mantenimiento.&lt;br&gt;• Marketing digital (Meta/Google).&lt;br&gt;• Diseño UX/UI y soporte.&lt;br&gt;• Plantillas premium (externas)." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="20" y="290" width="960" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vgj7h5Qavgk72bsX05VU-90" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;- Front End (React) - Web Fisrt Mobile.&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;- APIs -----&amp;gt; Integraciones. ---&amp;gt; Definición.&lt;/p&gt;&lt;p&gt;- Contratos&lt;/p&gt;&lt;p&gt;- Desarrollo Agent (Embeding, RAC) --&amp;gt; Analisis comparativo entre modelos vs. costos&amp;nbsp;&lt;/p&gt;&lt;p&gt;- BD Vectorial - Modulo RAC.&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Infraestructura - Arquitectura (CLoud Ocean, AWS - IaaS - Terraform - Observabilidad Datadog)&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Repos Git - Pago.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="520" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vgj7h5Qavgk72bsX05VU-91" value="Actividades:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Proceso Investigativo para definir:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. APIs --&amp;gt; Definir: Integracions, tecnología, costos.&amp;nbsp;&lt;/div&gt;&lt;div&gt;2. Agente --&amp;gt; BD vectorial, Recuperador, System y User Prompt para guardar la info. Buenas prácticas.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Analisis comparativo entre modelos vs. costos&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Infraestructura - Arquitectura (CLoud Ocean, AWS - IaaS - Terraform)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. Repo Git de Pago - Comprar-&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. Comprar Tokens-&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="730" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vrLVkzvkzEONla98BZZc" name="APIs">
+    <mxGraphModel dx="1639" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UJWbKUfcRRSQiXTOAwjY-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Función&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;API:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Upload de archivos&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/files/upload&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Extraer texto&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/ai/extract-text&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Generar CV&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/ai/generate/resume&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Generar Cover Letter&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/ai/generate/cover-letter&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Optimizar CV&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/ai/optimize/resume&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Chat con agente&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/ai/chat&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Exportar PDF&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/pdf/generate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Pagar&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/billing/checkout&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Login&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/auth/login&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Dashboard&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;/dashboard/history&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="650" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
